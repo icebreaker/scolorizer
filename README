@@ -1,0 +1,8 @@
+Scons output customizer & colorizer
+Copyright (c) Mihail Szabolcs
+
+I Googled around for customized/colorized output using Scons, 
+but found nothing relevant so I decided to make this little project 
+inspired by Blender's excellent SConstruct.
+
+See the Getting Started Wiki page for more information.
